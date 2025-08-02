@@ -8,4 +8,12 @@ now clone the repository to laptop folder (D:\NSK\Git\session1>)
 Command1---git clone <repository url> 
 D:\NSK\Git\session1> git clone https://github.com/nattigitaccount/EDA_2025.git  (check in laptop folder for clone folder)
 D:\NSK\Git\session1> git branch -a (or git branch ==>for checking git branch) (* indicates the present branch)
-D:\NSK\Git\session1> git push origin dev ()
+D:\NSK\Git\session1> git push origin dev ( push data from laptop folder to git online account)
+D:\NSK\Git\session1> git checkout dev  (shifts from main branch to dev branch)
+D:\NSK\Git\session1> git add .
+D:\NSK\Git\session1> git status
+D:\NSK\Git\session1> git commit -am  "workspace completed" (error occurs to authenticate the user email)
+D:\NSK\Git\session1> git config --global user.email "natti.genai@gmail.com"
+D:\NSK\Git\session1> git commit -am  "workspace completed" (again commit to get correctly)
+D:\NSK\Git\session1> git push origin dev ( push data from laptop folder to git online account)
+
