@@ -7,4 +7,5 @@ open cmd - and type git (to check whether working/installed correctly)
 now clone the repository to laptop folder (D:\NSK\Git\session1>)
 Command1---git clone <repository url> 
 D:\NSK\Git\session1> git clone https://github.com/nattigitaccount/EDA_2025.git  (check in laptop folder for clone folder)
+D:\NSK\Git\session1> git branch -a (or git branch ==>for checking git branch) (* indicates the present branch)
 
