@@ -1,1 +1,8 @@
+create a git account
+create a repository - EDA 2025
+uploaded files
 
+download github (https://git-scm.com/downloads)
+open cmd - and type git (to check whether working/installed correctly)
+now clone the repository to laptop folder 
+git clone <repository url> 
